@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# VES Transfer Specifications
 
-You can use the [editor on GitHub](https://github.com/ves-tech/vestransferspec/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Visual Effects production requires a constant exchange of image sequence data between the VFX houses and the studios including full resolution uncompressed source or final plates and compressed files for the editorial department.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The VES Transfer Specifications document provides a reference template that can be used to effectively define how Visual Effects vendors should ingest, process and deliver image data for visual effects production.
 
-### Markdown
+Based on the feedback of multiple VFX vendors involved with hundreds of productions, VES Transfer Specs have been introduced with the following goals:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Provide a standard reference on which information VFX vendors require for visual effects production
 
-```markdown
-Syntax highlighted code block
+* Suggest a common nomenclature
 
-# Header 1
-## Header 2
-### Header 3
+* Suggest best practices on how specifications should be provided and when
 
-- Bulleted
-- List
+* Clearly identify specifications that cannot be easily changed once vfx production has started from information that is less critical and can be easily tweaked at a later stage
 
-1. Numbered
-2. List
+* Suggest best practices for certain aspects of the delivery process
 
-**Bold** and _Italic_ and `Code` text
+Using these templates benefits both production teams and VFX vendors reducing the number of iterations required to establish the production pipeline for each show.
 
-[Link](url) and ![Image](src)
-```
+The VFX Transfer Specs package includes three documents:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [VFX Transfer Specs Guide](https://docs.google.com/document/d/1_qOheKfzT5tdd4GVzDbm_U9-U0FVreVisA8vFdFH67I/edit?usp=sharing). Introducing the different aspects of the specification.
 
-### Jekyll Themes
+* [VFX Transfer Specs Sample](https://docs.google.com/document/d/1usDmbM8z8GkZL10eOkYezHBqzmMDUZgDa55WCO4IKtk/edit?usp=sharing). A complete example based on a recent production.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ves-tech/vestransferspec/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Templates are provided as Word documents and Google Docs in order to be aligned with existing working practices and for easy extensibility. The initial focus is more on capturing all required specifications rather than on automating ingestion of this data, but future iterations of this project may focus on a more formal standardization to enable automation.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
