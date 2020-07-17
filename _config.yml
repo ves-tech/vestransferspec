@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
+title: VES Transfer Specifications
+description: VES template on how to ingest, process and deliver image data for VFX production
+show_downloads: false
+github:
+  is_project_page: false
