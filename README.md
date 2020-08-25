@@ -18,9 +18,10 @@ Based on the feedback of multiple VFX vendors involved with hundreds of producti
 
 Using these templates benefits both production teams and VFX vendors reducing the number of iterations required to establish the production pipeline for each show.
 
+The VFX Transfer Specs package includes two documents:
+
 * [VFX Transfer Specs Guide](https://docs.google.com/document/d/1_qOheKfzT5tdd4GVzDbm_U9-U0FVreVisA8vFdFH67I/edit?usp=sharing). Introducing the different aspects of the specification.
 
 * [VFX Transfer Specs Sample](https://docs.google.com/document/d/1usDmbM8z8GkZL10eOkYezHBqzmMDUZgDa55WCO4IKtk/edit?usp=sharing). A complete example based on a recent production.
 
 Templates are provided as Word documents and Google Docs in order to be aligned with existing working practices and for easy extensibility. The initial focus is more on capturing all required specifications rather than on automating ingestion of this data, but future iterations of this project may focus on a more formal standardization to enable automation.
-
