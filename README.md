@@ -25,4 +25,3 @@ The VFX Transfer Specs package includes two documents:
 * [VFX Transfer Specs Sample](https://docs.google.com/document/d/1usDmbM8z8GkZL10eOkYezHBqzmMDUZgDa55WCO4IKtk/edit?usp=sharing). A complete example based on a recent production.
 
 Templates are provided as Word documents and Google Docs in order to be aligned with existing working practices and for easy extensibility. The initial focus is more on capturing all required specifications rather than on automating ingestion of this data, but future iterations of this project may focus on a more formal standardization to enable automation.
-
